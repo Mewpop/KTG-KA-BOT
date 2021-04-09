@@ -18,7 +18,7 @@ const embed = new Discord.MessageEmbed()
 .addField('%KTG ke dost')
 .addField('%report a problem')
 .addField('%act')
-.setColor('RANDOM')
+.setColor('GREEN')
 
 
 client.on('ready', () => {
